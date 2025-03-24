@@ -1,5 +1,5 @@
 #include <sum.h>
-int sum(number1, number2) {
+int sum(int number1, int number2) {
   int sum;
   // TODO: escreva uma expressao para armazenar number1 somado ao number2 e armazenar na variavel sum.
         
