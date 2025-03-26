@@ -2,7 +2,7 @@
 Biggest number Exercise Template
 
 # Identificação
-Nome: <Seu nome>
+Nome: <Seu Nome?>
 Matrícula: <Sua Matrícula>
 
 # Instruções
@@ -12,6 +12,6 @@ Neste exercício você deve escrever uma função que recebe dois valores inteir
 2. Modifique a função dentro do arquivo student.c
 
 # Exemplos
-Quando recebe -30 e 10, sua função deve retornar -30.
-Quando recebe -30 e 50, sua função deve retornar 50.
+1. Quando recebe -30 e 10, sua função deve retornar -30.
+2. Quando recebe -30 e 50, sua função deve retornar 50.
 
