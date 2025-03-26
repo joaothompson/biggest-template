@@ -15,4 +15,5 @@ Neste exercício você deve escrever uma função que recebe dois valores inteir
 # Exemplos
 1. Quando recebe -30 e 10, sua função deve retornar -30.
 2. Quando recebe -30 e 50, sua função deve retornar 50.
+3. Quando recebe -10 e 10, sua função deve retornar 10.
 
