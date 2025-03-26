@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-I.
 
-hellomake: test.o sum.o
-	$(CC) -o sum_program test.o sum.o
+hellomake: test.o student.o
+	$(CC) -o test test.o student.o
 clean:
-	rm -rf sum.o sum_program test.o
+	rm -rf student.o test test.o
